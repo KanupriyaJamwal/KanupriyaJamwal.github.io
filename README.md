@@ -1,2 +1,3 @@
 # kanupriyajamwal.github.io
-Redirect to portfolio
+
+Redirect to portfolio - kanupriyajamwal.github.io/portfolio
